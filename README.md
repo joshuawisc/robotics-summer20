@@ -1,6 +1,6 @@
-# CS699 Report
+# Summer 2020 Report
 
-Final report for work over the summer under Prof. Michael Gleicher.
+Final report for work done over the summer under Prof. Michael Gleicher.
 Worked on creating various tasks in CoppeliaSim using the Movo robot. Also worked on various Xbox control schemes for the Movo.
 
 ## 1. Files
@@ -14,5 +14,17 @@ Worked on creating various tasks in CoppeliaSim using the Movo robot. Also worke
 
 #### Movo simulation:
 
-![Sim Image1](./images/sim1.png)
-![Sim Image2](./images/sim2.png)
+##### movoDoor
+![door](./images/sim-door.png)
+
+##### movoMultipleTransfer
+![blocks](./images/sim-blocks.png)
+
+##### movoPointTouch
+![point](./images/sim-point.png)
+
+##### movoPour
+![pour](./images/sim-pour.png)
+
+##### movoStack
+![stack](./images/sim-stack.png)
