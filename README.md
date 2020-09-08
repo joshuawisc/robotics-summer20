@@ -5,10 +5,10 @@ Worked on creating various tasks in CoppeliaSim using the Movo robot. Also worke
 
 ## 1. Files
 1. [Movo control ROS package (ver 3)](https://github.com/joshuawisc/movo-control-3)
-2. [Movo simulated tasks]()
-3. [CoppeliaSim object models]()
+2. [Movo simulated tasks](https://github.com/joshuawisc/movo-sim-tasks)
+3. [CoppeliaSim object models](https://github.com/uwgraphics/CopeliaSimObjects)
 
-## [2. Report](Report.md)
+## [2. Report](https://joshuawisc.github.io/robotics-summer20/Report.html)
 
 ## 3. Results
 
